@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+ML+Enthusiast;Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
-* ✨ Passionate **Data Analyst & Machine Learning Enthusiast** with a knack for turning complex data into clear, actionable insights.
+* ✨ Passionate **Data Scientist & Machine Learning , Deep Learning Enthusiast** with a knack for turning complex data into clear, actionable insights.
 * 🎓 Pursuing **BCA (Data Scientist)** at MMDU University, with **CGPA 9.0**.
 * 📊 Skilled in **Data Cleaning, Visualization & Predictive Modeling,Machine Learning** using Python, SQL, Excel & BI Tools.
 * ⚡ **Fun Fact:** I enjoy experimenting with new tools to create impactful projects!
@@ -53,13 +53,14 @@
 
 <div align="center">
   <a href="https://www.xplore.co.in/"><img src="https://user-images.githubusercontent.com/74038190/190445766-3d71927c-3676-43b9-a938-4e892c57c48f.gif" width="60" /></a>
-  <h3>Xplore.co.in — Data Analyst Intern</h3>
+  <h3>Xplore.co.in — Machine Learning Intern</h3>
 </div>
 
-* ✔️ Cleaned & analyzed **real-time datasets** to support business decisions.
+* ✔️ Cleaned , analyzed created Predictive model on  **real-time datasets** to support business decisions or future prediction.
 * ✔️ Built **data visualizations** to highlight key patterns & trends.
-* ✔️ Utilized **Python (Pandas, NumPy, Matplotlib)** for data insights.
+* ✔️ Utilized **Python (Pandas, NumPy, Matplotlib, seaborn, sciket-learn etc)** for data insights.
 * ✔️ Collaborated with the team to **solve analytical challenges**.
+* ✔️ created multiple projects  **for future prediction**.
 
 ---
 
