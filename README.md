@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h2 align="center">💫 About Me</h2>
 Hey Everyone, I'm Jay A Data Scientist
 
 
