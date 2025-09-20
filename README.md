@@ -47,17 +47,7 @@
 
 ---
 
-<h2 align="center">📊 Featured Projects</h2>
 
-| Project Name                     | Description                                                                    | Link                                                                    |
-| :------------------------------- | :----------------------------------------------------------------------------- | :---------------------------------------------------------------------- |
-| **House Rent Prediction**        | Predictive model using Linear Regression to estimate house rent prices.        | [GitHub](https://github.com/surajpathak23/House-Rent-Prediction)        |
-| **Student Performance Analysis** | Exploratory Data Analysis (EDA) on student performance to uncover key factors. | [GitHub](https://github.com/surajpathak23/Student-Performance-Analysis) |
-| **Customer Lifetime Value**      | Dashboard & ML model using Random Forest to predict churn.                     | [GitHub](https://github.com/surajpathak23/Customer-Churn-Prediction)    |
-| **Ecommerce Customer EDA**       | In-depth EDA on e-commerce dataset using Pandas & Matplotlib.                  | [GitHub](https://github.com/surajpathak23/Ecommerce-Customer-EDA)       |
-| **CLV ML Dashboard**             | Interactive ML dashboard built with Streamlit.                                 | [GitHub](https://github.com/surajpathak23/CLV-ML-Dashboard)             |
-
----
 
 <h2 align="center">🎯 Internship Experience</h2>
 
