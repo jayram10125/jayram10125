@@ -7,19 +7,17 @@
 </p>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
----
 
 <h2 align="center">💫 About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Data+Analyst+%7C+ML+Enthusiast;Transforming+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
 * ✨ Passionate **Data Scientist & Machine Learning , Deep Learning Enthusiast** with a knack for turning complex data into clear, actionable insights.
 * 🎓 Pursuing **BCA (Data Scientist)** at MMDU University, with **CGPA 9.0**.
