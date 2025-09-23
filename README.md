@@ -52,6 +52,15 @@
 </p>
 
 ---
+# 🎯 Current Goals  
+
+- 🚀 Mastering **Machine Learning & Deep Learning algorithms** to build intelligent systems  
+- 🤖 Exploring **n8n** for creating powerful **AI Agents & Workflow Automation**  
+- 📊 Developing more **real-world Data Science projects** with practical applications  
+- 💼 Preparing for **placements & hackathons** to sharpen problem-solving skills  
+
+  
+---
 
 
 
@@ -126,5 +135,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jayram10125&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+# 📈 Coding Activity  
+
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayram10125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
