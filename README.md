@@ -103,11 +103,10 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-kumar-2307skp/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/surajpathak23"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>
-  <a href="mailto:surajpathakdes@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
-  <a href="https://x.com/suraj_pathak23"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="https://wa.me/919142496994"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+  <a href="https://www.linkedin.com/in/jay-ram-kumar-115592292"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/jayram10125"><img src="https://img.icons8.com/ios11/512/EBEBEB/github.png" width="48" height="48" /></a>
+  <a href="mailto:jayram.10125@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
+  <a href="https://wa.me/7360847928"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
 </p>
 
 # 📊 GitHub Stats:
