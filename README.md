@@ -63,15 +63,34 @@
 * ✔️ created multiple projects  **for future prediction**.
 
 ---
-<!--
-<h2 align="center">📜 Certificates</h2>
+# 📜 Certificates & Achievements  
 
 <p align="center">
-  <a href="https://certificates.simplicdn.net/share/8638034_40693461752731650613.pdf"><img src="https://img.shields.io/badge/Power%20BI%20-%20Analyzing%20and%20Visualizing%20Data-blue?style=for-the-badge&logo=powerbi" /></a>  
-  <a href="https://certificates.simplicdn.net/share/8629532_40693461752580749157.pdf"><img src="https://img.shields.io/badge/Excel%20-%20Microsoft%20Office%20Specialist-green?style=for-the-badge&logo=microsoft-excel" /></a>  
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_jqTc5jgD2qyWn5MQ6_1750227472641_completion_certificate.pdf"><img src="https://img.shields.io/badge/Deloitte%20-%20Data%20Analytics%20Simulation-purple?style=for-the-badge&logo=deloitte" /></a>  
+  <a href="https://courses.cognitiveclass.ai/certificates/94d861a032254e35b212fb338558dfae#">
+    <img src="https://img.shields.io/badge/Python%20101%20for%20Data%20Science-IBM-FF6F00?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/jay-ram-kumar-115592292_forage-certificate-activity-7349850072714530817-r8ZQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbrwyEBypzPIychxGPRttCm6rrZGhmu-78">
+    <img src="https://img.shields.io/badge/Quantium-Data%20Analytics-1D3557?style=for-the-badge&logo=google-analytics&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/jay-ram-kumar-115592292_certificate-of-completion-activity-7349838580397088768-UfbH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbrwyEBypzPIychxGPRttCm6rrZGhmu-78">
+    <img src="https://img.shields.io/badge/Intro%20to%20Career%20Skills-Data%20Analytics-2A9D8F?style=for-the-badge&logo=databricks&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/jay-ram-kumar-115592292_certificate-of-completion-activity-7349503872530337792-cw2A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbrwyEBypzPIychxGPRttCm6rrZGhmu-78">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-Completed-264653?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/jay-ram-kumar-115592292_exciting-to-share-i-have-just-completed-activity-7280143326337495040-lFWG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbrwyEBypzPIychxGPRttCm6rrZGhmu-78">
+    <img src="https://img.shields.io/badge/C++-Certification-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/jay-ram-kumar-115592292/recent-activity/all/">
+    <img src="https://img.shields.io/badge/See%20More-LinkedIn%20Achievements-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
--->
+
 
 ---
 
