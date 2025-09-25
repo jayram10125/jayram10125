@@ -139,7 +139,7 @@
 
 # 📈 Coding Activity  
 
-[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayram10125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayram10125&theme=react-dark)]
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
