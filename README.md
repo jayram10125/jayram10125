@@ -61,6 +61,13 @@
 
   
 ---
+## 💻 My Projects
+
+### 1. Contact Saver Web App
+**Description:** A Streamlit web app where you can can save multiple contact numbers in single go.  
+**Tech:** Python, Streamlit, Pandas, vobject ,openpyxl
+**Repo:** https://github.com/jayram10125/BULK-CONTACT-SAVER
+**Streamlit App:** https://bulk-contact-saver-app.streamlit.app/
 
 
 
