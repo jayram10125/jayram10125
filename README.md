@@ -64,7 +64,7 @@
 ## 💻 My Projects
 
 ### 1. Contact Saver Web App
-**Description:** A Streamlit web app where you can can save multiple contact numbers in single go.  
+**Description:** A Streamlit web app where you can  save multiple contact numbers in single go.  
 <br>
 **Tech:** Python, Streamlit, Pandas, vobject ,openpyxl
 <br>
@@ -72,6 +72,14 @@
 <br>
 **Streamlit App:** https://bulk-contact-saver-app.streamlit.app/
 
+### 2. Email Spam Classifier
+**Description:** A Streamlit web app where you can check whether an email is Spam or Not.  
+<br>
+**Tech:** Python, Streamlit, Pandas, Seaborn , Machine Leaarning etc
+<br>
+**Repo:** https://github.com/jayram10125/Email-Spam-Classifier
+<br>
+**Streamlit App:** https://email-spam-classifier-jay.streamlit.app/
 
 
 <h2 align="center">🎯 Internship Experience</h2>
