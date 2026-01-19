@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jay Ram KumaR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Jay Ram Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
   <a href="https://github.com/jayram10125"><img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social" alt="GitHub Follow"></a>
@@ -18,7 +18,7 @@
 
 ---
 
-* ✨ Passionate **Data Scientist & Machine Learning , Deep Learning Enthusiast** with a knack for turning complex data into clear, actionable insights.
+* ✨ Passionate **Data Scientist & Machine Learning , Deep Learning , NLP Enthusiast** with a knack for turning complex data into clear, actionable insights.
 * 🎓 Pursuing **BCA (Data Scientist)** at MMDU University, with **CGPA 9.0**.
 * 📊 Skilled in **Data Cleaning, Visualization & Predictive Modeling,Machine Learning** using Python, SQL, Excel & BI Tools.
 * ⚡ **Fun Fact:** I enjoy experimenting with new tools to create impactful projects!
@@ -62,8 +62,37 @@
   
 ---
 ## 💻 My Projects
+### 1. Harvestify
+**Description:** Harvestify is an AI-powered smart agriculture system that recommends crops, fertilizers, detects plant diseases, and predicts yield using machine learning.  
+<br>
+**Tech:** Python, Machine Learning, Deep Learning , Tensolflow , SciketLearn
+<br>
+**Repo:** https://github.com/jayram10125/Harvestify
 
-### 1. Contact Saver Web App
+### 2. PropAI
+**Description:** Developed PropAI, an AI-based real estate system for property price prediction, recommendation, and visual market analysis  
+<br>
+**Tech:** Python, Machine Learning , SciketLearn
+<br>
+**Repo:** https://github.com/jayram10125/PropertyAI
+
+### 3. Movie Recommender System
+**Description:**Developed a movie recommender system that suggests relevant movies using content-based filtering and similarity matching.
+<br>
+**Tech:** Python, Machine Learning , SciketLearn
+<br>
+**Repo:** https://github.com/jayram10125/Movie-Recomendation-System
+
+
+### 4. Email Spam Classifier
+**Description:** A Streamlit web app where you can check whether an email is Spam or Not.  
+<br>
+**Tech:** Python, Streamlit, Pandas, Seaborn , Machine Leaarning etc
+<br>
+**Repo:** https://github.com/jayram10125/Email-Spam-Classifier
+<br>
+**Streamlit App:** https://email-spam-classifier-jay.streamlit.app/
+### 5. Contact Saver Web App
 **Description:** A Streamlit web app where you can  save multiple contact numbers in single go.  
 <br>
 **Tech:** Python, Streamlit, Pandas, vobject ,openpyxl
@@ -72,14 +101,7 @@
 <br>
 **Streamlit App:** https://bulk-contact-saver-app.streamlit.app/
 
-### 2. Email Spam Classifier
-**Description:** A Streamlit web app where you can check whether an email is Spam or Not.  
-<br>
-**Tech:** Python, Streamlit, Pandas, Seaborn , Machine Leaarning etc
-<br>
-**Repo:** https://github.com/jayram10125/Email-Spam-Classifier
-<br>
-**Streamlit App:** https://email-spam-classifier-jay.streamlit.app/
+
 
 
 <h2 align="center">🎯 Internship Experience</h2>
@@ -87,6 +109,8 @@
 <div align="center">
   <a href="https://www.xplore.co.in/"><img src="https://user-images.githubusercontent.com/74038190/190445766-3d71927c-3676-43b9-a938-4e892c57c48f.gif" width="60" /></a>
   <h3>Xplore.co.in — Machine Learning Intern</h3>
+  <a href="https://www.linkedin.com/posts/jay-ram-kumar-115592292_mmdu-xplore-aiml-activity-7416000305357619200-XExI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEbrwyEBypzPIychxGPRttCm6rrZGhmu-78">Check Cerificate</a>
+  
 </div>
 
 * ✔️ Cleaned , analyzed created Predictive model on  **real-time datasets** to support business decisions or future prediction.
