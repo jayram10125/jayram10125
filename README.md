@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Jay Ram Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
+  
   <a href="https://github.com/jayram10125"><img src="https://img.shields.io/github/followers/surajpathak23?label=GitHub&style=social" alt="GitHub Follow"></a>
   <a href="https://www.linkedin.com/in/jay-ram-kumar-115592292/"><img src="https://img.shields.io/badge/LinkedIn-2.1k-blue?style=social&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jayraam.10125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
