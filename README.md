@@ -83,6 +83,9 @@
 **Tech:** Python, Machine Learning , SciketLearn
 <br>
 **Repo:** https://github.com/jayram10125/Movie-Recomendation-System
+<br>
+**Streamlit APP :** https://movie-recommender-system-jay.streamlit.app/
+
 
 
 ### 4. Email Spam Classifier
