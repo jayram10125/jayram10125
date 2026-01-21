@@ -76,6 +76,8 @@
 **Tech:** Python, Machine Learning , SciketLearn
 <br>
 **Repo:** https://github.com/jayram10125/PropertyAI
+<br>
+**Streamlit APP:** https://prop-ai.streamlit.app/
 
 ### 3. Movie Recommender System
 **Description:**Developed a movie recommender system that suggests relevant movies using content-based filtering and similarity matching.
