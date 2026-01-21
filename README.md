@@ -75,7 +75,7 @@
 <br>
 **Tech:** Python, Machine Learning , SciketLearn
 <br>
-**Repo:** https://github.com/jayram10125/PropertyAI
+**Repo:** https://github.com/jayram10125/RealEstate-PropAI-
 <br>
 **Streamlit APP:** https://prop-ai.streamlit.app/
 
